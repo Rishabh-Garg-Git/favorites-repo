@@ -1,3 +1,9 @@
+# Foods
 Pizza
 Biryani
 Ice-cream
+
+# Movies
+The Shawshank Redemption
+Inception
+Interstellar
